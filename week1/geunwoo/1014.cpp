@@ -1,4 +1,4 @@
-//이문제를 풀기 위한 솔루션
+//이문제를 풀기 위한 솔루션 DP+BitMasking
 #include <bits/stdc++.h>
 using namespace std;
 int testCase, N, M;
