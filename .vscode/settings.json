@@ -2,6 +2,7 @@
     "files.associations": {
         "vector": "cpp",
         "codecvt": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "queue": "cpp"
     }
 }
